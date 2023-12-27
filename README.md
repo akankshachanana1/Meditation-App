@@ -1,4 +1,4 @@
-# meditation-app
+# Meditation-app
 Check it out 
 [Meditation-App](https://akankshachanana1.github.io/Meditation-App/)
 
